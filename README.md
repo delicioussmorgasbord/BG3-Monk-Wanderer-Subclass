@@ -61,11 +61,11 @@ Shifting Presence: Use 2 Ki to change all aspects of your appearance until your 
 
 ___
 
-
 LEVEL 9
 
 PASSIVES
--
+
+–
 
 ACTIONS
 
@@ -85,7 +85,7 @@ Blindsight: You can now perceive your environs normally in all forms of darkness
 
 ACTIONS
 
--
+–
 
 
 
