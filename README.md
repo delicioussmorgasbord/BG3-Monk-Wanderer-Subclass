@@ -12,11 +12,11 @@ I tried to make it balanced, and since I can't decide if it's underpowered or ov
 
 OVERVIEW (planned - right now the progression in the mod is different for testing, but these are the subclass features)
 
+---
+
 WAY OF THE WANDERER
 
 "You use your ki to enhance your senses and blur the boundaries between yourself, the world, and others."
-
----
 
 LEVEL 3
 
