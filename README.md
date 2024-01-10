@@ -9,17 +9,15 @@ It should be operational if you want to take it for a spin, but there are janky 
 
 I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it's about right.
 
-
+---
 
 OVERVIEW
-
-
 
 WAY OF THE WANDERER
 
 "You use your ki to enhance your senses and blur the boundaries between yourself, the world, and others."
 
-
+---
 
 LEVEL 3
 
@@ -28,8 +26,6 @@ PASSIVES
 Wilderness Ascetic: Wanderers are proficient in the Nature and Survival skills.
 
 Precision Throwing: You throw with considerable finesse and can use your Dexterity modifier instead of Strength modifier for to-hit attack rolls when throwing objects.
-
----
 
 ACTIONS
 
@@ -45,8 +41,6 @@ Mosswalker: Weave ki into the immediate surroundings, subtly warping the percept
 
 ___
 
-___
-
 LEVEL 6
 
 PASSIVES
@@ -56,8 +50,6 @@ Moonsight: You have learned to subconsciously circulate your ki to boost your se
 Beguiling Persona: Use 1 Ki to subtly guide your expressions and mannerisms towards a creature, giving you Advantage on all Charisma checks with them. This technique is not considered a spell and never provokes hostility.
 
 Sense Vitals: Use 3 Ki to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature.
-
-___
 
 ACTIONS
 
@@ -69,14 +61,11 @@ Shifting Presence: Use 2 Ki to change all aspects of your appearance until your 
 
 ___
 
-___
 
 LEVEL 9
 
 PASSIVES
 -
-
-___
 
 ACTIONS
 
@@ -85,8 +74,6 @@ Hypnotic Pattern: Use 4 Ki to mesmerize creatures that can see you for two round
 Discerning Senses: For 4 Ki, dramatically enhance your awareness until your next Long Rest, giving you Advantage on Perception, Insight, and Survival checks, making her immune to being Surprised, and enabling you to perceive invisible entities.
 
 Vital Overflow: Use 4 Ki to flood nearby plants with vital energy and cause them to grow rapidly, quartering the movement of those who pass through them.
-
-___
 
 ___
 
