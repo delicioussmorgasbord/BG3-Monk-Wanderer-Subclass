@@ -75,7 +75,7 @@ Blindsight: You can now perceive your environs normally in all forms of darkness
 
 ACTIONS
 
-Discerning Senses: For 5 Ki, dramatically enhance your awareness until your next rest (Long or Short), giving you Advantage on Perception, Insight, and Survival checks, making you immune to being Surprised, and enabling you to perceive invisible entities. Requires Concentration.
+Discerning Senses: For 5 Ki, dramatically enhance your awareness until your next rest (Long or Short), giving you Advantage on Perception, Insight, and Survival checks, making you immune to being Surprised, and enabling you to perceive Invisible entities. Requires Concentration.
 
 Hypnotic Pattern: Use 4 Ki to mesmerize creatures that can see you for two rounds.
 
