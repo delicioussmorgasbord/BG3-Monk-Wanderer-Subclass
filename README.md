@@ -1,11 +1,9 @@
 # BG3 Monk Wanderer Subclass (WIP)
-A homebrew monk subclass that is something like a cross between historical shinobi and yamabushi. Said another way, it's like a 'ranger monk' or 'druid monk.' I recommend making characters with this subclass into the party's chief item user – scrolls, grenades, wands, etc. – since it is much more control-oriented in combat than the base 3 subclasses.
+A homebrew monk subclass that is something like a cross between historical shinobi and yamabushi. Said another way, it's like a 'ranger monk' or 'druid monk.' It currently uses the old icon for the Samurai subclass (Bonnaventura) as a placeholder. The initial build was made using Way of the Kensei (YuukaYunna) as the initial template.
 
-I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. It currently uses the old icon for the Samurai subclass (Bonnaventura) as a placeholder. The initial build was made using Way of the Kensei (YuukaYunna) as the initial template.
+I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it.
 
-It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it.
-
-I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it should at least be within the realm of reason.
+I recommend making characters with this subclass into the party's chief item user – scrolls, grenades, wands, etc. – since it is much more control-oriented in combat than the base 3 subclasses. I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it should at least be within the realm of reason.
 
 ---
 
