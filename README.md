@@ -6,7 +6,7 @@ I made the Wanderer because I wanted a monk subclass with a more nature-oriented
 
 It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it.
 
-I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it's about right. While the subclass gets a lot of tricks, most of them are RP-based/mechanically underwhelming.
+I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it's about right. While the subclass gets a lot of tricks, most of them are RP-based/situational/mechanically underwhelming.
 
 ---
 
