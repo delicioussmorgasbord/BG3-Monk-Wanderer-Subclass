@@ -47,7 +47,7 @@ ACTIONS
 
 Mosswalker: For 3 Ki, you can weave ki into your immediate surroundings, subtly warping the perception of outside observers. You gain a +10 bonus to Stealth checks and cause enemies to have Disadvantage in attack rolls against you until your next rest (Short or Long). Requires Concentration.
 
-Beguiling Persona: Use 1 Ki to subtly guide your expressions and mannerisms towards a creature, giving you Advantage on all Charisma checks with them. This technique is not considered a spell and never provokes hostility.
+Beguiling Persona: Use 1 Ki to help guide your expressions and mannerisms towards a creature, giving you Advantage on all Charisma checks with them. This technique is not considered a spell and never provokes hostility.
 
 Projection: For 1 Ki, project your ki a short distance away, creating a sensory effect that compels nearby creatures to investigate, like the cantrip Minor Illusion.
 
