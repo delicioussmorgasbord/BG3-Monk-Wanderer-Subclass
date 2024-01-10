@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="1" minor="0" revision="0" build="1"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="ThrowingArts;Moonsight;WildernessAscetic"/>
+                    <attribute id="UUID" type="guid" value="d0364bcc-c28c-4e67-b9bd-32a602ee4390"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Blindsight"/>
+                    <attribute id="UUID" type="guid" value="62312e00-40aa-4821-92b5-508d12b3b007"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
