@@ -5,7 +5,11 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="ThrowingArts;Moonsight;WildernessAscetic"/>
+                    <attribute id="Passives" type="LSString" value="ThrowingArts;WildernessAscetic"/>
+                    <attribute id="UUID" type="guid" value="d0364bcc-c28c-4e67-b9bd-32a602ee4390"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Moonsight"/>
                     <attribute id="UUID" type="guid" value="d0364bcc-c28c-4e67-b9bd-32a602ee4390"/>
                 </node>
                 <node id="PassiveList">

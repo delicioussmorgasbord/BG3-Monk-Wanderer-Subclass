@@ -6,22 +6,27 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Wanderer level 3"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Recall;Target_CalmCreature;Shout_SentienceLink;Shout_Mosswalker;Target_Pounce"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Recall;Target_CalmCreature;Shout_SentienceLink;Target_Pounce"/>
                     <attribute id="UUID" type="guid" value="af15fa80-b887-4b1a-b643-996c4aa4a9fd"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Wanderer level 6"/>
-                    <attribute id="Spells" type="LSString" value="Shout_BeguilingPersona;Shout_Shifting;Target_SenseVitals;Shout_Hagakure"/>
+                    <attribute id="Comment" type="LSString" value="Wanderer level 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_BeguilingPersona;Shout_Mosswalker"/>
+                    <attribute id="UUID" type="guid" value="cdcc53a3-1c3e-408b-b872-a8de72e0b80f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Wanderer level 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Hagakure;Shout_Shifting;Target_SenseVitals"/>
                     <attribute id="UUID" type="guid" value="cdcc53a3-1c3e-408b-b872-a8de72e0b80f"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Wanderer level 9"/>
-                    <attribute id="Spells" type="LSString" value="Shout_DiscerningSenses;Target_WandPlantGrowth;Target_Mistrider"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DiscerningSenses;Target_WandPlantGrowth;Target_WandHypnoticPattern"/>
                     <attribute id="UUID" type="guid" value="a867a37c-327d-49f6-b688-d9081b56a507"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Wanderer level 11"/>
-                    <attribute id="Spells" type="LSString" value="Target_WandHypnoticPattern"/>
+                    <attribute id="Spells" type="LSString" value="Target_Mistrider"/>
                     <attribute id="UUID" type="guid" value="02f232b6-3f99-4a37-aa15-04b9aae768e6"/>
                 </node>
             </children>
