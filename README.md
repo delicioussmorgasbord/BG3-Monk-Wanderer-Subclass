@@ -1,7 +1,7 @@
 # BG3 Monk Wanderer Subclass (WIP)
 A homebrew monk subclass that is something like a cross between historical shinobi and yamabushi. Said another way, it's like a 'ranger monk' or 'druid monk.' It currently uses the old icon for the Samurai subclass (Bonnaventura) as a placeholder. The initial build was made using Way of the Kensei (YuukaYunna) as the template.
 
-I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. I find it more fun to play characters with lots of weak but situationally useful RP abilities; while the Wanderer gets a lot of techniques, the subclass is ki-hungry and heavily dependent on Concentration, and none of the techniques are particularly strong on their own.
+I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. I find it more fun to play characters with lots of weak but situationally useful RP abilities; while the Wanderer gets a lot of techniques, the subclass is ki-hungry and heavily dependent on Concentration, and none of the techniques are particularly strong on their own. Another way to describe the subclass is as the "spiritual" or "primal" flipside of a Bard - excellent pinch-hitter, skill monkey, scout, and party face, but with a more naturalistic feel.
 
 It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it. That said, as long as it's only on here and not on Nexus, assume that means that it's not "release-ready".
 
