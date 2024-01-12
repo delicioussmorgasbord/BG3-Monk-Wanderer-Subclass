@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <content contentuid="h5a50f3d5g5fe1g433dgbf95g0d04e24cf437" version="1">Way of the Wanderer</content>
-  <content contentuid="h39281c23gbb27g45e5g928bg83032d76ba5b" version="1">You use your ki to enhance your senses and blur the boundaries between yourself, the natural world, and others.</content>
-  <content contentuid="h39281c23gbb27g45e5g928bg83032d76ba5c" version="1">You use your ki to enhance your senses and blur the boundaries between yourself, the natural world, and others.</content>
+  <content contentuid="h39281c23gbb27g45e5g928bg83032d76ba5b" version="1">You use your ki to enhance your senses and blur the boundaries between yourself, the world, and others.</content>
+  <content contentuid="h39281c23gbb27g45e5g928bg83032d76ba5c" version="1">You use your ki to enhance your senses and blur the boundaries between yourself, the world, and others.</content>
   <content contentuid="h5a50f3d5g5fe1g433dgbf95g0d04e24cf438" version="1">Way of the Wanderer</content>
   <content contentuid="h874baf59gf9d4g4299ga175gbf6096b0e156" version="1">Recall Austerities</content>
-  <content contentuid="h2f93b27fg6b83g49ffgbb87gda2671fefd6f" version="1">Use your &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; and 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to recall your harsh training in extreme environments, steeling yourself for what may be to come. You receive a 1d4 bonus on saving throws for the next 10 turns.</content>
+  <content contentuid="h2f93b27fg6b83g49ffgbb87gda2671fefd6f" version="1">Once per Short Rest, you can use your &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to recall your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus to saving throws and resistance to all forms of energy for 3 turns.</content>
   <content contentuid="h874baf59gf9d4g4299ga175gbf6096b0e155" version="1">Sentience Link</content>
-  <content contentuid="h2f93b27fg6b83g49ffgbb87gda2671fefd6e" version="1">Use 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to create a mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings.</content>
+  <content contentuid="h2f93b27fg6b83g49ffgbb87gda2671fefd6e" version="1">Use 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to create a mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings. The effect lasts until your next Long Rest.</content>
   <content contentuid="h416fededg6eeag4273gb70ege3c8efc5d292" version="1">Calm Creature</content>
-  <content contentuid="haf46afcegda65g4b02ga9efgc76a2e9e92e1" version="1">Use 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to placate the mind of an animal for 10 rounds.</content>
+  <content contentuid="haf46afcegda65g4b02ga9efgc76a2e9e92e1" version="1">Use 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to placate the mind of a creature of low intelligence (plant, animal, or otherwise) for 10 rounds.</content>
   <content contentuid="h4690574ag47f8g4fd0g99a9ge9be5507cffc" version="1">Moonsight</content>
-  <content contentuid="hfd304749gefecg426cg97degd8c7b6c5d47d" version="1">The wanderer has learned to perpetually circulate her ki to boost her senses, imparting her with permanent superior darkvision.</content>
+  <content contentuid="hfd304749gefecg426cg97degd8c7b6c5d47d" version="1">You have learned to perpetually circulate your ki to boost her senses, imparting you with permanent superior darkvision.</content>
   <content contentuid="h21c30235gacb6g4d11g9942g2e13f13d6010" version="1">Pounce</content>
-  <content contentuid="hcc05a71ag0775g4641g949bgf6144f91d0c2" version="1">Focus ki into the legs to triple jumping distance for 10 rounds for 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt;.</content>
+  <content contentuid="hcc05a71ag0775g4641g949bgf6144f91d0c2" version="1">Use 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to focus ki into your legs, tripling your jumping distance for 10 rounds.</content>
   <content contentuid="h9fc20213gd8d6g4830gb64cg1f4bdd1bc569" version="1">Mosswalker</content>
-  <content contentuid="h060c1a50ge29eg4b0cg9814g86056b8f6a96" version="1">Weave ki into the immediate surroundings, subtly warping the perception of outside observers. This technique uses 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; and provides you with a +10 bonus to Stealth checks until your next Long Rest.</content>
+  <content contentuid="h060c1a50ge29eg4b0cg9814g86056b8f6a96" version="1">Use 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to weave ki into your immediate surroundings, subtly warping the perception of outside observers. Until your next Long Rest, you gain a +10 bonus to Stealth checks, and enemy attacks against you are at Disadvantage.</content>
   <content contentuid="h06078740g25d1g4f46g8c60gb3494227858c" version="1">Shifting Presence</content>
   <content contentuid="h6fd6e897g223ag4fe6g8a66g7900b249b90b" version="1">Use 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to change all aspects of your appearance until your next Long Rest.</content>
   <content contentuid="h87e72e1fg766ag406bg8144gbb43c5584ee0" version="1">Hagakure</content>
-  <content contentuid="h467cf836gb4a9g4e2bg8205gbb438c92669c" version="1">Use 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to suppress your ki, immediately becoming Invisible if you are obscured. </content>
+  <content contentuid="h467cf836gb4a9g4e2bg8205gbb438c92669c" version="1">Use 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to suppress your ki, immediately becoming Invisible for 10 rounds if you are obscured. </content>
   <content contentuid="h87e72e1fg766ag406bg8144gbb43c5584ee1" version="1">Mistrider</content>
   <content contentuid="h467cf836gb4a9g4e2bg8205gbb438c92669d" version="1">Use 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to 'walk' through folds of ki in your immediate environment, teleporting to a location within sight.</content>
   <content contentuid="hbe059092g9d07g49b5gb06bg299980fd6e87" version="1">Sense Vitals</content>
-  <content contentuid="h91992a71g37b1g4402ga1afgdc23b3f2e870" version="1">Use 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature.</content>
+  <content contentuid="h91992a71g37b1g4402ga1afgdc23b3f2e870" version="1">Use 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature. The effect lasts until your next Long Rest.</content>
   <content contentuid="h38e5059egb356g4c27g8ac8g8880634668f5" version="1">Discerning Senses</content>
-  <content contentuid="h4994f080g3a63g4355g9a78g756a9e586b2f" version="1">For 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt;, the wanderer can dramatically enhance her awareness until her next Long Rest, giving her Advantage on Perception, Insight, and Survival checks, making her immune to being Surprised, and enabling her to perceive invisible entities.</content>
+  <content contentuid="h4994f080g3a63g4355g9a78g756a9e586b2f" version="1">For 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt;, enhance your awareness until your next Long Rest, giving you Advantage on Perception, Insight, and Survival checks, immunity to being Surprised, and the ability to perceive invisible entities.</content>
   <content contentuid="h70dd1403g7928g4b48gbb59gf71e23b4015c" version="1">Beguiling Persona</content>
-  <content contentuid="h279540e8ga577g479cg999fgbe980637b874" version="1">Spend 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to subtly boost your expressions and mannerisms, giving you Advantage on all Charisma checks. This technique is not considered a spell and never provokes hostility.</content>
+  <content contentuid="h279540e8ga577g479cg999fgbe980637b874" version="1">Use 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to subtly boost your expressions and mannerisms towards a creature, giving you Advantage on all Charisma checks with them. This technique is not considered a spell and never provokes hostility.</content>
   <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6h" version="1">Hypnotic Pattern</content>
   <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b5" version="1">Use 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to mesmerize creatures that can see you for two rounds.</content>
   <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6j" version="1">Vital Overflow</content>
   <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b7" version="1">Use 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt; to flood nearby plants with vital energy and cause them to grow rapidly, quartering the movement of those who pass through them.</content>
   <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6i" version="1">Precision Throwing</content>
-  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b6" version="1">The wanderer is able to throw with considerable finesse, and can use her Dexterity modifier instead of Strength modifier for to-hit attack rolls when throwing objects.</content>
+  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b6" version="1">You can throw with considerable finesse and use your Dexterity modifier instead of Strength modifier for to-hit attack rolls when throwing objects.</content>
   <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6k" version="1">Blindsight</content>
-  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b8" version="1">The wanderer has further developed their senses, and can now operate normally in all forms of darkness, including magical darkness and blindness.</content>
+  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b8" version="1">You have further developed your senses, and can now operate normally in all forms of darkness – including magical darkness and blindness.</content>
   <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6l" version="1">Wilderness Ascetic</content>
-  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b9" version="1">Wanderers are proficient in the Nature and Survival skills.</content>
-  <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6m" version="1">Ki Projection</content>
+  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b9" version="1">Wanderers gain Proficiency in Nature, Survival, or Animal Handling.</content>
+  <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6m" version="1">Subtle Decoy</content>
   <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b0" version="1">For 1 Ki, project your ki a short distance away, creating a sensory effect that compels nearby creatures to investigate, like the cantrip Minor Illusion.</content>
+  <content contentuid="h232bb81dg135dg4610gafbfg3b2ad8295f6n" version="1">Grounding</content>
+  <content contentuid="h7ac9cebbge939g4d9agbbc1ge72bca29c8b1" version="1">Use your &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to release your focus from active techniques, reclaiming 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki&lt;/LSTag&gt;.</content>
 
 </contentList>

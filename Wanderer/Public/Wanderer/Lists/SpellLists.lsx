@@ -15,9 +15,9 @@
                     <attribute id="UUID" type="guid" value="cdcc53a3-1c3e-408b-b872-a8de72e0b80f"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Wanderer level 5"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Hagakure;Shout_Shifting;Target_SenseVitals"/>
-                    <attribute id="UUID" type="guid" value="cdcc53a3-1c3e-408b-b872-a8de72e0b80f"/>
+                    <attribute id="Comment" type="LSString" value="Wanderer level 7"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Hagakure;Shout_Shifting;Target_SenseVitals;Shout_Grounding"/>
+                    <attribute id="UUID" type="guid" value="a39e6b7e-0ddd-4ed6-910c-c64cb04bc4d1"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Wanderer level 9"/>

@@ -70,7 +70,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Wanderer"/>
                     <attribute id="PassivesAdded" type="LSString" value="ThrowingArts;WildernessAscetic"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(af15fa80-b887-4b1a-b643-996c4aa4a9fd)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(af15fa80-b887-4b1a-b643-996c4aa4a9fd);SelectSkills(889d3b97-5975-4c1c-bcc3-925521935a65,1)" />
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="05ae04a1-1b8f-4540-9e56-2ec59a299e5b"/>
                     <attribute id="UUID" type="guid" value="89357e76-58f7-4e7b-8947-49189be0b83e"/>
@@ -87,11 +87,10 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Wanderer"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Moonsight"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(cdcc53a3-1c3e-408b-b872-a8de72e0b80f)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a39e6b7e-0ddd-4ed6-910c-c64cb04bc4d1)" />
                     <attribute id="TableUUID" type="guid" value="05ae04a1-1b8f-4540-9e56-2ec59a299e5b"/>
-                    <attribute id="UUID" type="guid" value="b84fe911-538c-4ddd-aad7-f3fbf2d0d430"/>
+                    <attribute id="UUID" type="guid" value="21759699-923e-474a-b6ff-13601d30194e"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
