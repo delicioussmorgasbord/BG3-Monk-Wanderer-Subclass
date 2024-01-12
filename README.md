@@ -7,7 +7,7 @@ I recommend making characters with this subclass into the party's chief item use
 
 ---
 
-OVERVIEW (planned - right now the progression in the mod is different for testing, but these are the subclass features)
+OVERVIEW
 
 ---
 
