@@ -27,7 +27,7 @@ Precision Throwing: You throw with considerable finesse and can use your Dexteri
 
 ACTIONS
 
-Recall Austerities: Once per Short Rest, you may use your bonus action to mentally revisit your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus on saving throws and resistance against all forms of energy for 3 turns.
+Recall Austerities: Once per Short Rest, you may use your bonus action to mentally revisit your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus on saving throws and resistance against all forms of energy for 5 turns.
 
 Sentience Link: Use 3 Ki to create a long-lasting mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings until your next Long Rest.
 
