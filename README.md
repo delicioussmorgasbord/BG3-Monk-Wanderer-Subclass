@@ -19,17 +19,17 @@ LEVEL 3
 
 PASSIVES
 
-Wilderness Ascetic: Select proficiency in either the Nature or Survival skill.
+Wilderness Ascetic: Select proficiency in either the Nature, Survival, or Animal Handling skill.
 
 Precision Throwing: You throw with considerable finesse and can use your Dexterity modifier instead of Strength modifier for to-hit attack rolls when throwing objects.
 
 ACTIONS
 
-Recall Austerities: Use a standard action to mentally revisit your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus on saving throws for the next 5 turns. This functions like Resistance, but does not require Concentration.
+Recall Austerities: Once per Short Rest, you may use your bonus action to mentally revisit your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus on saving throws and resistance against all forms of energy for 3 turns.
 
-Sentience Link: Use 4 Ki to create a long-lasting mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings until your next Long Rest.
+Sentience Link: Use 3 Ki to create a long-lasting mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings until your next Long Rest.
 
-Calm Creature: Use 3 Ki to placate a sentient creature (animal, plant, monster, humanoid) for 10 rounds. When used on an ally, behaves like the spell Calm Emotions. May provoke hostility once the effect fades.
+Calm Creature: Use 2 Ki to placate a sentient creature (animal, plant, etc.) for 10 rounds. May provoke hostility once the effect fades. (PLANNED: When used on an ally, behaves like the spell Calm Emotions)
 
 Pounce: Use your bonus action and 1 Ki to focus ki into your legs, tripling your jumping distance for 10 rounds.
 
@@ -43,7 +43,7 @@ Moonsight: You have learned to subconsciously circulate your ki to boost your se
 
 ACTIONS
 
-Mosswalker: For 3 Ki, you can weave ki into your immediate surroundings, subtly warping the perception of outside observers. You gain a +10 bonus to Stealth checks and cause enemies to have Disadvantage in attack rolls against you until your next rest (Short or Long). Requires Concentration.
+Mosswalker: For 2 Ki, you can weave ki into your immediate surroundings, subtly warping the perception of outside observers. You gain a +10 bonus to Stealth checks and cause enemies to have Disadvantage in attack rolls against you. Requires Concentration.
 
 Beguiling Persona: Use 1 Ki to help guide your expressions and mannerisms towards a creature, giving you Advantage on all Charisma checks with them. This technique is not considered a spell and never provokes hostility.
 
@@ -55,7 +55,7 @@ LEVEL 7
 
 PASSIVES
 
-(Ki Circulation: Whenever you prematurely cancel an ongoing effect that required Ki Points to use, regain half of the points used for it, rounded down. This must be a willed action and does not occur if Concentration is forcibly broken or the effect ends due to being incapacitated) PLANNED
+–
 
 ACTIONS
 
@@ -63,7 +63,9 @@ Hagakure: Use 1 Ki to suppress your presence, immediately becoming Invisible if 
 
 Shifting Presence: Use 2 Ki to change all aspects of your appearance until your next rest (Short or Long).
 
-Sense Vitals: Use 5 Ki to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature. This lasts until your next rest (Short or Long). Requires Concentration.
+Sense Vitals: Use 4 Ki to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature. This lasts until your next rest (Short or Long). Requires Concentration.
+
+Grounding: Use your bonus action to break your Concentration, regaining 2 Ki points.
 
 ___
 
@@ -75,7 +77,7 @@ Blindsight: You can now perceive your environs normally in all forms of darkness
 
 ACTIONS
 
-Discerning Senses: For 5 Ki, dramatically enhance your awareness until your next rest (Long or Short), giving you Advantage on Perception, Insight, and Survival checks, making you immune to being Surprised, and enabling you to perceive Invisible entities. Requires Concentration.
+Discerning Senses: For 4 Ki, dramatically enhance your awareness until your next rest (Long or Short), giving you Advantage on Perception, Insight, and Survival checks, making you immune to being Surprised, and enabling you to perceive Invisible entities. Requires Concentration.
 
 Hypnotic Pattern: Use 4 Ki to mesmerize creatures that can see you for two rounds.
 
