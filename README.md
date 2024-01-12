@@ -1,13 +1,15 @@
 # BG3 Monk Wanderer Subclass (WIP)
 A homebrew monk subclass that is something like a cross between historical shinobi and yamabushi. Said another way, it's like a 'ranger monk' or 'druid monk.' It currently uses the old icon for the Samurai subclass (Bonnaventura) as a placeholder. The initial build was made using Way of the Kensei (YuukaYunna) as the initial template.
 
-I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it. That said, as long as it's only on here and not on Nexus, assume that means that it's not "release-ready".
+I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. I find it more fun to play characters with lots of weak but situationally useful RP abilities; while the Wanderer gets a lot of techniques, the subclass is *very* ki-hungry, and none of the techniques are particularly strong on their own.
+
+It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it. That said, as long as it's only on here and not on Nexus, assume that means that it's not "release-ready".
 
 I recommend making characters with this subclass into the party's chief item user – scrolls, grenades, wands, etc. – since it is much more control-oriented in combat than the base 3 subclasses. I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it should at least be within the realm of reason.
 
 ---
 
-OVERVIEW
+OVERVIEW (note: pre-release, I'm using this overview for review and balancing, so there will be minor differences with the current version)
 
 ---
 
@@ -29,7 +31,7 @@ Recall Austerities: Once per Short Rest, you may use your bonus action to mental
 
 Sentience Link: Use 3 Ki to create a long-lasting mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings until your next Long Rest.
 
-Calm Creature: Use 2 Ki to placate a sentient creature (animal, plant, etc.) for 10 rounds. May provoke hostility once the effect fades. (PLANNED: When used on an ally, behaves like the spell Calm Emotions)
+Calm Creature: Use 3 Ki to placate a sentient creature (animal, plant, etc.) for 10 rounds. May provoke hostility once the effect fades. (PLANNED: When used on an ally, behaves like the spell Calm Emotions)
 
 Pounce: Use your bonus action and 1 Ki to focus ki into your legs, tripling your jumping distance for 10 rounds.
 
@@ -43,7 +45,7 @@ Moonsight: You have learned to subconsciously circulate your ki to boost your se
 
 ACTIONS
 
-Mosswalker: For 2 Ki, you can weave ki into your immediate surroundings, subtly warping the perception of outside observers. You gain a +10 bonus to Stealth checks and cause enemies to have Disadvantage in attack rolls against you. Requires Concentration.
+Mosswalker: For 4 Ki, you can weave ki into your immediate surroundings, subtly warping the perception of outside observers. You gain a +10 bonus to Stealth checks and cause enemies to have Disadvantage in attack rolls against you. Requires Concentration.
 
 Beguiling Persona: Use 1 Ki to help guide your expressions and mannerisms towards a creature, giving you Advantage on all Charisma checks with them. This technique is not considered a spell and never provokes hostility.
 
@@ -63,9 +65,9 @@ Hagakure: Use 1 Ki to suppress your presence, immediately becoming Invisible if 
 
 Shifting Presence: Use 2 Ki to change all aspects of your appearance until your next rest (Short or Long).
 
-Sense Vitals: Use 4 Ki to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature. This lasts until your next rest (Short or Long). Requires Concentration.
+Sense Vitals: Use 4 Ki to sense the weak points of a target, dealing an additional 1d6 points of Physical damage whenever you hit it with a weapon attack. If the target dies before the spell ends, you can use Reapply Sense Vitals to mark a new creature. The technique lasts until your next Long Rest. Requires Concentration.
 
-Grounding: Use your bonus action to break your Concentration, regaining 2 Ki points.
+Grounding: Use your bonus action to regain 2 Ki by breaking your Concentration.
 
 ___
 
@@ -73,7 +75,7 @@ LEVEL 9
 
 PASSIVES
 
-Blindsight: You can now perceive your environs normally in all forms of darkness – including magical darkness and blindness.
+Blindsight: You can now perceive your environs normally in all forms of darkness – including magical darkness and when blinded.
 
 ACTIONS
 
