@@ -1,7 +1,7 @@
 # BG3 Monk Wanderer Subclass (WIP)
 A homebrew monk subclass that is something like a cross between historical shinobi and yamabushi. Said another way, it's like a 'ranger monk' or 'druid monk.' It currently uses the old icon for the Samurai subclass (Bonnaventura) as a placeholder. The initial build was made using Way of the Kensei (YuukaYunna) as the initial template.
 
-I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it.
+I made the Wanderer because I wanted a monk subclass with an animistic/esoteric flavor. It should be operational if you want to take it for a spin, but there are janky bits with icons and sound/animation combos that I'm not satisfied with. I'll be adjusting them as I do a run with it. That said, as long as it's only on here and not on Nexus, assume that means that it's not "release-ready".
 
 I recommend making characters with this subclass into the party's chief item user – scrolls, grenades, wands, etc. – since it is much more control-oriented in combat than the base 3 subclasses. I tried to make it balanced, and since I can't decide if it's underpowered or overpowered, I think it should at least be within the realm of reason.
 
@@ -25,7 +25,7 @@ Precision Throwing: You throw with considerable finesse and can use your Dexteri
 
 ACTIONS
 
-Recall Austerities: Use a standard action to mentally revisit your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus on saving throws for the next 5 turns.
+Recall Austerities: Use a standard action to mentally revisit your harsh training in extreme environments, steeling yourself. You receive a 1d4 bonus on saving throws for the next 5 turns. This functions like Resistance, but does not require Concentration.
 
 Sentience Link: Use 4 Ki to create a long-lasting mental link with all sentient creatures, enabling communication with animals and reading the thoughts of more intelligent beings until your next Long Rest.
 
